@@ -58,7 +58,7 @@ There's a critical need for an accessible, scalable platform that provides quali
 
 ## 👨‍💻 Team Maple
 
-- Akarsha  
-- Avani 
-- Jeevitha & Shravya A
+- Jeevitha  
+- Akarsha 
+- Avani & Shravya A
   
